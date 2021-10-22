@@ -1,7 +1,7 @@
-#Joel Nymark
-- 👋 Hi, I’m @JoelNymark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+# Joel Nymark
+## Code Languages i know
+- python
+- html
+- css
+- c#
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelNymark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
