@@ -5,7 +5,6 @@
 - Python
 - HTML5
 - CSS3
-- C#
 - Javascript
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelNymark&show_icons=true&theme=tokyonight)
 
