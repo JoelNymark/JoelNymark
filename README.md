@@ -30,7 +30,3 @@ I've been learning to code for 2 years. I started with HTML and CSS , but have r
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JoelNymark"><img src="https://github-readme-stats.vercel.app/api?username=JoelNymark&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoelNymark's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/JoelNymark"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
