@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joel Nymark
 ===================================================================================================================================
 
-Junior Web and Backend developer
+Junior Web and Junior Python Developer
 --------------------------------
 
 I've been learning to code for 2 years.
