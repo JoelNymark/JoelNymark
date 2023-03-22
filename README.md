@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web and Backend developer
 --------------------------------
 
-I've been learning to code for 2 years. I started with HTML and CSS , but have really found a passion for backend development
+I've been learning to code for 2 years.
 
 * 🌍  I'm based in Sweden Uppsala
 * 🖥️  See my portfolio at [Portfolio](http://joelnymark.github.io/MyPortfolio/)
